@@ -1,8 +1,10 @@
-# Doris Learning Materials
+# Doris Learning Notes
 
-Apache Doris 3.0.8 学习资料与教程 PDF。
+Apache Doris 3.0.8 分章学习笔记与复习题答案。
 
 文件位于 [`docs/pdf/`](docs/pdf/)：
 
-- `Apache_Doris_3.0.8_零基础到底层原理教程.pdf`
-- `Apache_Doris_GitHub全量问题与回答_2017-2026.pdf`
+- `notes-01.pdf`：第一章学习笔记
+- `notes-01-a.pdf`：第一章复习题答案
+- `notes-02.pdf`：第二章学习笔记
+- `notes-02-a.pdf`：第二章复习题答案
