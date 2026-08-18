@@ -16,3 +16,9 @@ Apache Doris 3.0.8 分章学习笔记与复习题答案。
 - `notes-05-a.pdf`：第五章复习题答案
 - `notes-06.pdf`：第六章学习笔记
 - `notes-06-a.pdf`：第六章复习题答案
+- `notes-07.pdf`：第七章学习笔记
+- `notes-07-a.pdf`：第七章复习题答案
+- `notes-08.pdf`：第八章学习笔记
+- `notes-08-a.pdf`：第八章复习题答案
+- `notes-09.pdf`：第九章学习笔记
+- `notes-09-a.pdf`：第九章复习题答案
